@@ -1,5 +1,6 @@
 /*
-@Autores: Giorno Givanna, Leandro
+@Autores:	Henrique Mateus
+			Leandro Pereira
 
 Arquitetura de 16 bits
 

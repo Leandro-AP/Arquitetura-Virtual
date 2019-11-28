@@ -30,7 +30,6 @@ Modelo das instruções Tipo N:
 #include <stdio.h>
 #include <cmath>
 
-#define EVER ;;
 #define OLD 0x00
 #define LD 0x01
 #define STR 0x02
